@@ -48,6 +48,7 @@ There are two kinds of subprojects:
    guides/EPICS_Process_Database_Concepts.rst
    How-To Pages <https://docs.epics-controls.org/projects/how-tos/en/latest>
    guides/faq
+   CONTRIBUTING
 
 .. toctree::
    :maxdepth: 1
